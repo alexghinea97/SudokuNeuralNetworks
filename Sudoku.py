@@ -1,3 +1,4 @@
+#Dataset: https://www.kaggle.com/bryanpark/sudoku
 import numpy as np
 import torch
 import pandas as pd
